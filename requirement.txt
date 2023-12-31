@@ -1,3 +1,5 @@
-This is My fist git respository
+This is My first git respository
 How it works
 what is the important
+
+2nd time repository added
